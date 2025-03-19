@@ -1,15 +1,31 @@
-# welcome to the python series | chai aur python
+# Python DSA Hub
 
-Hanji, ye python ki series hai, jisme hum python ke bare me seekhenge. Ye series hindi me hai, jisse aapko samajhne me aasani hogi. Ye series kuch is tarah se hogi ki ab aapko python ko samajhne me koi dikkat nahi hogi. Is series me hum python ke basics se lekar advance tak ke topics cover karenge. Bht saara behind the scenes bhi seekhne ko milega. Toh chaliye shuru karte hai.
+Welcome to **Python DSA Hub** – your one-stop repository for mastering Data Structures and Algorithms using Python! Whether you're a beginner grinding LeetCode or a pro sharpening your skills, this repo has got you covered with clean, efficient, and well-documented code.
 
-## Youtube
-series aapko "chai aur code" youtube channel pe milegi. 
+## 🚀 What’s This About?
 
-## PR
-Please isme koi PR request na kare. 
+This repository is a collection of Python implementations for various Data Structures and Algorithms. My goal? To break down complex concepts into simple, readable code that you can learn from, tweak, or use directly in your projects. Expect regular updates as I keep adding more problems, solutions, and optimizations!
 
-## Support
-[Discord](https://hitesh.ai/discord)
+## 📂 Repository Structure
 
-## Whatsapp
-[Whatsapp](https://hitesh.ai/whatsapp)"# pythondsa" 
+Here’s how the repo is organized:
+
+Each folder contains Python files with:
+- Problem statement (in comments)
+- Solution code
+- Time and Space Complexity analysis
+
+## 🔥 Features
+
+- **Beginner-Friendly**: Code is written with clarity in mind – no cryptic one-liners (unless it’s intentional 😎).
+- **Well-Commented**: Understand *why* the code works, not just *how*.
+- **Optimized Solutions**: Where possible, I’ve included multiple approaches (brute force to optimized).
+- **Pythonic Code**: Leveraging Python’s power for concise and elegant solutions.
+
+## 🛠️ How to Use
+
+1. **Clone the Repo**:
+   ```bash
+   git clone https://github.com/GauravRoy092/pythondsa.git
+
+   Example :- python binary_search_tree.py
